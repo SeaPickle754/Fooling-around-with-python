@@ -67,5 +67,4 @@ array([list([1, 2, 3]), list([4, 5, 6]), list([7, 8, 9]), list([0])],
 thank you for checking this out! please leave an issue with an idea for a new
 project!
 """
-'\nthank you for checking this out! please leave an issue with an idea for a new\nproject!\n'
 >>> 
